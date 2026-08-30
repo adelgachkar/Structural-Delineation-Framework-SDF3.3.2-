@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Structural Delineation Framework (SDF)
+message: >-
+  If you use this framework, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Adel
+    family-names: Gachkar
+    orcid: "https://orcid.org/0009-0006-7713-6804"
+    affiliation: "Islamic Azad University, Urmia"
+identifiers:
+  - type: url
+    value: "https://github.com/adelgachkar/Structural-Delineation-Framework-SDF3.3.2"
+repository-code: "https://github.com/adelgachkar/Structural-Delineation-Framework-SDF3.3.2"
+abstract: >-
+  A non-constraint foundational architecture unifying topological
+  invariants (C-top), canonical node-growth (G-Cid-S-R-M-L-F), and
+  kinetic stability across quantum many-body systems and QML.
+keywords:
+  - SDF
+  - quantum machine learning
+  - topological phases
+  - many-body physics
+license: MIT
+version: 3.3.2
+date-released: "2026-08-31"
