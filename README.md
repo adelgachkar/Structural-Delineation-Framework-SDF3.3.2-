@@ -1,8 +1,9 @@
 # Structural Delineation Framework (SDF)
 
-[![Version](https://img.shields.io/github/v/release/adelgachkar/Structural-Delineation-Framework-SDF3.3.2?label=release&color=blue)](https://github.com/adelgachkar/Structural-Delineation-Framework-SDF3.3.2/releases/tag/v3.3.2)
-[![License](https://img.shields.io/github/license/adelgachkar/Structural-Delineation-Framework-SDF3.3.2?color=green)](https://github.com/adelgachkar/Structural-Delineation-Framework-SDF3.3.2/blob/main/LICENSE)
-[![Domain](https://img.shields.io/badge/domain-Quantum_ML_|_Many--Body_Topology-purple.svg)](https://github.com/adelgachkar/Structural-Delineation-Framework-SDF3.3.2)
+<!-- Static Badges (Reliable) -->
+![Version](https://img.shields.io/badge/release-v3.3.2-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Domain](https://img.shields.io/badge/domain-Quantum_ML_|_Many--Body_Topology-purple)
 
 > **A non-constraint foundational architecture unifying topological invariants, generative state evolution, and kinetic stability across multi-scale physical and computational systems.**
 
